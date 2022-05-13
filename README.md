@@ -1,0 +1,4 @@
+# <Refactoring-Horiseon-Code-to-follow-Accessibility-Standards>
+
+## Horiseon, a marketing agency, was seeking a codebase that follows accessibility standards to optimize their site for search engines. In specific, they were looking for 5 criteria: use of semantic HTML elements, elements following a logical structure independent of styling and positioning, use of accessible alt attributes for images, heading attributes following sequential order, and a concise, descriptive title. In addition to meeting all the criteria, this project managed to optimize the associated html and css files through grouping selectors, reducing redundancy and removing excess code. Meta tags were also incorporated to help the client meet their goal of search engine optimization. The index.html and style.css files were modified to produce clean, concise and easy-to-follow code without altering the appearance or functionality of the web application. 
+
